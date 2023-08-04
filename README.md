@@ -6,7 +6,7 @@
  
  <summary> 
   
-  ### Part 2: Gettings Data Into Sentinel 
+  ### Part 2: Getting Data Into Sentinel 
   
  </summary>
 
